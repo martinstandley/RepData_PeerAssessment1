@@ -1,3 +1,24 @@
+## What this repo now contains
+This repo now contains the student answer to the assignment for week 2
+of the coursera reproducible research course.
+
+The original assignment readme is left below.
+
+The dataset that is analysed is also on this repo: activity.zip.
+
+The analysis is an Rmd file: PA1_template.Rmd which
+produces an .md and .html file that describe both
+the analysis and comments some of the findings. 
+
+The figures that are produced lie
+in a sub-directory: PA1_template_files/figure-html
+
+-------------------------------------------------------
+-------------------------------------------------------
+Below here is the old Readme file for the assessment with
+instructions for the assigment:
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
